@@ -1,1 +1,1 @@
-![screenshot](..docs/схема_бд.jpg)
+![screenshot](../docs/схема_бд.jpg)
